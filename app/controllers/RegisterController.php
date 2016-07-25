@@ -21,7 +21,7 @@ class RegisterController extends PageController {
 	public function buildHTML(){
 
 		include 'app/templates/header.php';
-		include 'app/templates/register.php';
+		include 'app/templates/registration.php';
 		include 'app/templates/footer.php';
 	}
 }
